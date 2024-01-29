@@ -9,8 +9,7 @@ This project is a scaled-down simulation of the kind of real-world assignments d
 
 Use this workpace to complete the project. 
 
-The SQL script (StageTableLoad.sql) that will create a "proj_stg" table with all the data from the excel workbook so you don't have to import the excel file into the workspace. 
-From the "proj_stg" table, you will be responsible for creating an ETL SQL script.
+The SQL script (StageTableLoad.sql) that will create a "proj_stg" table with all the data from the excel workbook ( no need to import the excel file into the workspace). 
+From the "proj_stg" table, creating an ETL SQL script.
 
-Now, click the below button to load the StageTableLoad.sql to the postgres database for the project.
 
